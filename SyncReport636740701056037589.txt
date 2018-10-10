@@ -1,0 +1,100 @@
+10/2/2018 9:42:00 AM...****************************************
+10/2/2018 9:42:00 AM...Running (dbupdate) version 1.1.1.1
+10/2/2018 9:42:00 AM...Using   (Innovartis.DBGhost.CompAndSyncAPI) version 5.1.0.52
+10/2/2018 9:42:00 AM...
+10/2/2018 9:42:00 AM...Start creating a temp source database like the target...
+10/2/2018 9:42:01 AM...Database creation complete
+10/2/2018 9:42:01 AM...Start populating the database from packaged schema and data...
+10/2/2018 9:42:09 AM...Population complete
+10/2/2018 9:42:09 AM...****************************************
+10/2/2018 9:42:09 AM...Running (dbupdate) version 1.1.1.1
+10/2/2018 9:42:09 AM...Using   (Innovartis.DBGhost.CompAndSyncAPI) version 5.1.0.52
+10/2/2018 9:42:09 AM...
+10/2/2018 9:42:09 AM...Comparing Databases [YIANNOSN].[sdm26] (the target) against [YIANNOSN].[SourceDB_636740701202194629] (the source)
+10/2/2018 9:42:09 AM...
+10/2/2018 9:42:11 AM...Checking for extra User Defined Data Types
+10/2/2018 9:42:11 AM...Checking for extra Defaults
+10/2/2018 9:42:11 AM...Checking for extra Rules
+10/2/2018 9:42:11 AM...Checking for missing Defaults
+10/2/2018 9:42:11 AM...Checking for missing Rules
+10/2/2018 9:42:11 AM...Checking for missing User Defined Data Types
+10/2/2018 9:42:11 AM...Checking for extra Tables
+10/2/2018 9:42:11 AM...Checking for missing Tables
+10/2/2018 9:42:11 AM...Checking for constraints that are the same, with different names
+10/2/2018 9:42:14 AM...Checking for extra Full Text Indexes
+10/2/2018 9:42:14 AM...Checking for extra Check constraints
+10/2/2018 9:42:14 AM...Checking for extra Foreign Keys
+10/2/2018 9:42:14 AM...Checking for extra Primary or Unique Keys
+10/2/2018 9:42:14 AM...Checking for extra Indexes
+10/2/2018 9:42:14 AM...Checking for extra Columns
+10/2/2018 9:42:14 AM...Checking for extra Views
+10/2/2018 9:42:14 AM...Checking for extra Indexes on Views
+10/2/2018 9:42:14 AM...Checking for extra User Defined Functions
+10/2/2018 9:42:14 AM...Checking for extra Stored Procedures
+10/2/2018 9:42:14 AM...Checking for extra Triggers
+10/2/2018 9:42:14 AM...Checking for differences with Defaults
+10/2/2018 9:42:14 AM...Checking for differences with Rules
+10/2/2018 9:42:14 AM...Checking for differences with User Defined Data Types
+10/2/2018 9:42:15 AM...Checking for differences with Check constraints
+10/2/2018 9:42:15 AM...Checking for differences with Indexes
+10/2/2018 9:42:15 AM...Checking for differences with Primary and Unique Keys
+10/2/2018 9:42:15 AM...Checking for differences with Foreign Keys
+10/2/2018 9:42:15 AM...Checking for differences with Indexes on Views
+10/2/2018 9:42:15 AM...Checking for differences with Stored Procedures
+10/2/2018 9:42:16 AM...Checking for differences with Triggers
+10/2/2018 9:42:16 AM...Checking for missing Columns
+10/2/2018 9:42:17 AM...Created column [dbo].[tacontrol].[tacontrl_zhdays] complete.
+10/2/2018 9:42:17 AM...Checking for differences with Columns
+10/2/2018 9:42:18 AM...Checking for missing Views
+10/2/2018 9:42:18 AM...Checking for missing Indexes on Views
+10/2/2018 9:42:18 AM...Checking for differences with Full Text Indexes
+10/2/2018 9:42:18 AM...Checking for missing Stored Procedures
+10/2/2018 9:42:18 AM...Checking for differences with Views
+10/2/2018 9:42:18 AM...Checking for missing User Defined Functions
+10/2/2018 9:42:18 AM...Checking for differences with User Defined Functions
+10/2/2018 9:42:18 AM...Checking Permissions
+10/2/2018 9:42:19 AM...Checking for missing Primary or Unique Keys
+10/2/2018 9:42:19 AM...Created key [dbo].[tacontrol].[PK_tacontrol] complete.
+10/2/2018 9:42:19 AM...Testing inter database connectivity...
+10/2/2018 9:42:19 AM...Checking data for extra rows
+10/2/2018 9:42:21 AM...Checking data for differences
+10/2/2018 9:42:22 AM...Checking data for missing rows
+10/2/2018 9:42:23 AM...Checking for missing Triggers
+10/2/2018 9:42:23 AM...Checking for missing Indexes
+10/2/2018 9:42:23 AM...Checking for missing Foreign Keys
+10/2/2018 9:42:23 AM...Created foreign key [dbo].[tacontrol].[FK_tacontrol_admcompanies] complete.
+10/2/2018 9:42:23 AM...Checking for missing Check constraints
+10/2/2018 9:42:23 AM...Checking for differences with Tables
+10/2/2018 9:42:24 AM...Checking for missing Full Text Indexes
+10/2/2018 9:42:24 AM...Checking for missing database extended properties
+10/2/2018 9:42:24 AM...Checking for missing extended properties on Rules
+10/2/2018 9:42:24 AM...Checking for missing extended properties on Defaults
+10/2/2018 9:42:24 AM...Checking for missing extended properties on User Defined Data Types
+10/2/2018 9:42:24 AM...Checking for missing extended properties on Tables
+10/2/2018 9:42:24 AM...Checking for missing extended properties on columns, indexes, constraints and triggers
+10/2/2018 9:42:24 AM...Checking for missing extended properties on Views
+10/2/2018 9:42:24 AM...Checking for missing extended properties on User Defined Functions
+10/2/2018 9:42:24 AM...Checking for missing extended properties on Stored Procedures
+10/2/2018 9:42:24 AM...Checking for differences with database extended properties
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on Rules
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on Defaults
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on User Defined Data Types
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on Tables
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on columns, indexes, constraints and triggers
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on Views
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on User Defined Functions
+10/2/2018 9:42:24 AM...Checking for differences with extended properties on Stored Procedures
+10/2/2018 9:42:24 AM...Checking for extra database extended properties
+10/2/2018 9:42:24 AM...Checking for extra extended properties on Rules
+10/2/2018 9:42:24 AM...Checking for extra extended properties on Defaults
+10/2/2018 9:42:24 AM...Checking for extra extended properties on User Defined Data Types
+10/2/2018 9:42:24 AM...Checking for extra extended properties on Tables
+10/2/2018 9:42:25 AM...Checking for extra extended properties on columns, indexes, constraints and triggers
+10/2/2018 9:42:25 AM...Checking for extra extended properties on Views
+10/2/2018 9:42:25 AM...Checking for extra extended properties on User Defined Functions
+10/2/2018 9:42:25 AM...Checking for extra extended properties on Stored Procedures
+10/2/2018 9:42:25 AM...
+10/2/2018 9:42:25 AM...dbupdate  - process complete
+10/2/2018 9:42:25 AM...
+10/2/2018 9:42:25 AM...****************************************
+10/2/2018 9:42:28 AM...Execution completed successfully
